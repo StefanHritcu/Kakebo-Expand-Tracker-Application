@@ -44,16 +44,6 @@ Entrambi i programmatori applicheranno queste tecnologie di base per costruire l
 
 Stefano ha deciso di approfondire le seguenti aree tecnologiche nel progetto:
 
-### ⚛️ **State Management avanzato con Redux**:
-- **Redux Toolkit (RTK)**: semplifica la configurazione dello store.
-- **RTK Query**: gestisce richieste asincrone.
-- **Redux Saga** e **Redux-Observable**: per la gestione avanzata degli effetti collaterali asincroni.
-- **Memoization con reselect**: ottimizza il rendering.
-- **Cache invalidation**: gestione della cache.
-- **Redux-persist**: per mantenere lo stato anche dopo il refresh della pagina.
-- **Tree Shaking**: riduce il bundle finale.
-- **Immer**: per la gestione immutabile dello stato.
-
 - ### ⚛️ **State Management avanzato con Redux**:
 - **Redux Toolkit (RTK)**: semplifica la configurazione dello store.
 - **RTK Query**: gestisce richieste asincrone.
