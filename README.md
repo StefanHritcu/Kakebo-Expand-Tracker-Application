@@ -30,6 +30,7 @@ Nel progetto utilizzeremo le seguenti tecnologie per creare un'applicazione mode
 
 ### 💻 **Frontend**:
 - React ⚛️
+- TypeScript 🟦
 - Bootstrap 🎨
 - Sass 🎨
 
@@ -52,6 +53,24 @@ Stefano ha deciso di approfondire le seguenti aree tecnologiche nel progetto:
 - **Redux-persist**: per mantenere lo stato anche dopo il refresh della pagina.
 - **Tree Shaking**: riduce il bundle finale.
 - **Immer**: per la gestione immutabile dello stato.
+
+- ### ⚛️ **State Management avanzato con Redux**:
+- **Redux Toolkit (RTK)**: semplifica la configurazione dello store.
+- **RTK Query**: gestisce richieste asincrone.
+- **Redux Saga** e **Redux-Observable**: per la gestione avanzata degli effetti collaterali asincroni.
+- **Memoization con reselect**: ottimizza il rendering.
+- **Cache invalidation**: gestione della cache.
+- **Redux-persist**: per mantenere lo stato anche dopo il refresh della pagina.
+- **Tree Shaking**: riduce il bundle finale.
+- **Immer**: per la gestione immutabile dello stato.
+
+### 🟦 **TypeScript**:
+- **Tipizzazione avanzata**: per garantire codice più sicuro e robusto.
+- **Tipizzazione degli state e actions** con **Redux**: per integrare TypeScript con Redux in modo efficace.
+- **Generics**: per creare componenti riutilizzabili e tipizzati.
+- **Type Guards**: per migliorare la gestione del flusso condizionale.
+- **Utility types**: per ridurre la ripetizione di codice e mantenere i tipi DRY (Don't Repeat Yourself).
+
 
 ### 🔄 **Ottimizzazione dello Scrolling e del Caricamento delle Immagini**:
 
